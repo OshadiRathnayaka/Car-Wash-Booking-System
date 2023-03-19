@@ -1,0 +1,34 @@
+........Vehicle Type..........
+4001 Acura
+4002 Alfa Romeo
+4003 Audi
+4004 BMW
+4005 Bentley
+4006 Buick
+4007 Cadillac
+4008 Chevrolet
+4009 Suzuki
+4010 Toyota
+
+
+..........Vehicle...........
+1001 Van
+1002 car
+1003 Bus
+1004 Mountain_bike
+1005 Lorry
+1006 Three_Wheel
+1007 Scooter
+1008 Truck
+
+
+
+..........Wash Type.........
+2001 Basic_cleaning 10000.99
+2002 Premium_cleaning
+2003 Complex_cleaning
+
+
+.........Payment..........
+3001 Card_Payment
+3002 Cash_Payamen

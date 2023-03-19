@@ -1,0 +1,131 @@
+.{
+	margin: 5px;
+	padding: 5px;
+}
+
+.logo{
+	height: 90px;
+	width: 150px;
+}
+.top-nav-header{
+	font-weight: bold;
+	color: darkblue;
+	font-size: 30px;
+}
+
+.ptext{
+	font-size: 15px;
+}
+
+
+.nav-pillsn{
+	background-color: blue;
+	width: 100%;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.nav-pills{
+	position: relative;
+	left: 400px;
+
+}
+
+.navbar-style{
+
+}
+
+.items{
+	width: 100%px;
+}
+
+.aboutimage{
+	width: 600px;
+	height: 500px;
+}
+
+.aboutpara{
+	font-family: "arial black";
+	font-size: 50px;
+	color: red;
+	font-weight: bold;
+}
+
+.headerabout{
+	font-family: "arial black";
+	font-size: 30px;
+	color: darkblue;
+	font-weight: bold;
+}
+
+.sub-header{
+	font-family: "Times New Roman";
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.about-para-details{
+	font-size: 18px;
+}
+
+.ul-a{
+	font-size: 18px;
+	font-style: italic;
+	color: #CD5C5C;
+}
+
+.rectangle{
+	height: 50px;
+  	width: 100%	;
+  	background-color: #191970;
+}
+.wash-service-img{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.service-header{
+	font-size: 24px;
+	font-family: "Britannic Bold";
+	font-weight: bold;
+	color: orange;
+}
+
+.service-discription{
+	font-size: 14px;
+}
+
+.price-item{
+	width: 350px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  height: 300px	;
+}
+
+.price-body{
+	font-size: 15px;
+	text-indent: 20px;
+}
+
+.wash-plan-header{
+	font-size: 25px;
+	color: #0000CD;
+}
+
+.fa-check-circle{
+	color: green;
+}
+
+.fa-times-circle{
+	color: red;
+}
+
+.back-to-home{
+	font-size: 20px;
+}
+
+.btn-primary{
+	color: white;
+	
+}

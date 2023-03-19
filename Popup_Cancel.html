@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Popup Design</title>
+		<link rel="stylesheet" href="style1.css">
+	</head>
+	<body>
+		<div class="container mt-5">
+			<button type="submit" class="btn" onclick="openPopup()"> Cancel </button>
+			<div class ="popup" id="popup">
+
+			<p><h4>Do you want to cancel your booking </h4></p>
+			<button type="button" onclick="closePopup()"> Yes </button> 
+			<button type="button" onclick="closePopup()"> No </button>
+			</div>
+		</div>
+
+		<script>
+			let popup = document.getElementById("popup");
+
+			function openPopup(){
+				popup.classList.add("open-popup");
+			}
+			function closePopup(){
+				popup.classList.remove("open-popup");
+			}
+		</script>
+	</body>
+</html>
